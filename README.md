@@ -2,4 +2,4 @@
 Mi primer repositorio
 Mi primer repositorio en GitHub
 
-i love : bike, ice cream, candy
+i love :bike:, :icecream:, :candy:
